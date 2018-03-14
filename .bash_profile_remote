@@ -1,0 +1,4 @@
+alias site='cd /usr/local/siteminder/'
+alias log='cd /usr/local/siteminder/var/log'
+alias sync='./bin/synchronize-exploded.sh ;./bin/synchronize-summary.rb'
+alias reload='source ~/.bash_profile'
